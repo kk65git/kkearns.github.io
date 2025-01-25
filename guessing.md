@@ -5,7 +5,7 @@ This flowchart represents the sequence of events necessary for a computer progra
 1. **Start the Game**: The program starts.
 2. **Generate Random Number**: The program generates a random number within a specific range (e.g., 1 to 100).
 3. **User Input**: The user guesses the number.
-4. **Validation**: The program checks if the input is valid (e.g., numeric, within range).
+4. **Validation**: The program checks if the input is correct (e.g., number, within range).
 5. **Feedback**: The program provides feedback based on the guess:
    - Too high
    - Too low
