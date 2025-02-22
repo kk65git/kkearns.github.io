@@ -1,0 +1,5 @@
+git checkout -b lesson7
+touch lesson7.html
+git add lesson7.html
+git commit -m "Added lesson7.html file"
+git push -u origin lesson7
